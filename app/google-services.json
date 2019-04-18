@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790647114590",
+    "firebase_url": "https://bai-news-d9441.firebaseio.com",
+    "project_id": "bai-news-d9441",
+    "storage_bucket": "bai-news-d9441.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790647114590:android:128b54b79dcd10bc",
+        "android_client_info": {
+          "package_name": "com.example.azatkariuly.bainews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790647114590-5n1htv2cnn8ictjh3mjbfb2sq562gqgl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.azatkariuly.bainews",
+            "certificate_hash": "9ac455c0e31a46ac013e104096ccc10d64755b48"
+          }
+        },
+        {
+          "client_id": "790647114590-q881ahpc865rrsdmqhohmd72s2kdsdgm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaP0vBCCcl6J2nwIAKfyIuGBrJmB4WkvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790647114590-q881ahpc865rrsdmqhohmd72s2kdsdgm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

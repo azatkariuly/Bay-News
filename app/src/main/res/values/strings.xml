@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bay News</string>
+    <string name="signUp">Sign Up</string>
+    <string name="logIn">Log In</string>
+    <string name="log_out">Log Out</string>
+    <string name="alreadyHaveAnAccount">Already have an account?</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="title_activity_my_main">MyMainActivity</string>
+    <string name="other_methods">Other methods</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
